@@ -13,19 +13,6 @@
 	    <?php do_action( 'basic_before_page_404_content_box' );  ?>
        
 	    <?php do_action( 'basic_after_page_404_content_box' );  ?>
-		
-		<!-- 内容匹配广告 -->
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<ins class="adsbygoogle"
-			 style="display:block"
-			 data-ad-format="autorelaxed"
-			 data-ad-client="ca-pub-8889449066804352"
-			 data-ad-slot="1928667997"></ins>
-		<script>
-			 (adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
-		<!-- 内容匹配广告 END -->
-
     </div>
     <?php do_action( 'basic_after_page_404_article' ); ?>
 
