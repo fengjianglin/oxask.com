@@ -45,7 +45,7 @@ svg:not(:root) {overflow: hidden;}
 html {height: 100%;}
 body {width: 100%;min-width: 280px;background: #fff;}
 .wrapper {margin: 0 auto;}
-#header {min-height: 100px;background-repeat: no-repeat;background-position: top center;background-size: cover;}
+#header {background-repeat: no-repeat;background-position: top center;background-size: cover;}
 #main {padding: 0px 0 60px;margin: 0 auto;position: relative;}
 #content {width: 100%;float: none;}
 #sidebar {display: none;}
@@ -176,8 +176,7 @@ input[type=submit]:hover, input[type=button]:hover, button:hover, .submit:hover,
 .meta a {text-decoration: none;}
 .meta a:hover {text-decoration: underline;}
 .inform {margin-bottom: 2em;border-bottom: 1px dotted #e2e2e2;}
-.inform h1 {padding-bottom: 1em;}
-.inform .archive-desc {padding: 0 0 2em 4em;}
+.inform .archive-desc {padding: 0 0 1em 4em;}
 .social_share {margin: 30px 0 0;padding: 30px 0 0;border-top: 1px solid #ddd;}
 .social_share li, .social_share ul {margin: 0 !important;padding: 0 10px 0 0 !important;list-style: none;}
 .social_share li:before {display: none;}
