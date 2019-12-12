@@ -7,8 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<?php wp_head(); ?>
-	
-<script data-ad-client="ca-pub-3220760898993054" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 </head>
 <body <?php body_class(); ?>>
